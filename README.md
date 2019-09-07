@@ -1,1 +1,1 @@
-# escuela-js
+# Escuela JS Platzi 2019
